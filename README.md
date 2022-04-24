@@ -1,2 +1,2 @@
-# LGM_Task1
-Beginner level task Create a  "TO DO List Web App"
+# todo.list
+Beginner level Task 1 - Create a To-Do List Web Application.
